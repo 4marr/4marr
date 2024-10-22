@@ -1,6 +1,6 @@
 ![hippo](https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=200&color=8B5CF6&width=435&lines=Hello!;I'm+Ammar)](https://git.io/typing-svg)
 
-| Hello World is the Beginning
+--- Hello World is the Beginning
 
 [![](https://visitcount.itsvg.in/api?id=4marr&icon=2&color=6)](https://visitcount.itsvg.in)
 
@@ -14,6 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=4marr&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=4marr&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
