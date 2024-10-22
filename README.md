@@ -2,9 +2,10 @@ https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-
 
 Hello World is the Beginning
 
-[![](https://visitcount.itsvg.in/api?id=4marr&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=4marr&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+))
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Marr%20Vermillion I) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ammaricano) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@4marr_27) 
