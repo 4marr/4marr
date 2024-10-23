@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=200&color=8B5CF6&width=435&lines=Hello!;I'm+Ammar)](https://git.io/typing-svg)
+<br />
 Who like Anime, Logic, Programming, Math and Physics.
-
+<hr>
 > Hello World is the Beginning
 
 [![](https://visitcount.itsvg.in/api?id=4marr&icon=2&color=6)](https://visitcount.itsvg.in)
