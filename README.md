@@ -2,11 +2,6 @@
 <br />
 Who like Anime, Logic, Programming, Math and Physics.
 
-<br />
-
-[![](https://visitcount.itsvg.in/api?id=4marr&icon=2&color=6)](https://visitcount.itsvg.in)
-
-
 This repository serves as a digital notebook for my programming adventures. Here, I'll be documenting my learning process, sharing projects I've built, and tracking my growth as a developer.
 
 ### # Tech Stack:
