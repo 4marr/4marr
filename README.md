@@ -6,7 +6,6 @@ Who like Anime, Logic, Programming, Math and Physics.
 
 [![](https://visitcount.itsvg.in/api?id=4marr&icon=2&color=6)](https://visitcount.itsvg.in)
 
-![hippo](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 This repository serves as a digital notebook for my programming adventures. Here, I'll be documenting my learning process, sharing projects I've built, and tracking my growth as a developer.
 
